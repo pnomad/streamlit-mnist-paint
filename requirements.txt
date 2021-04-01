@@ -1,5 +1,5 @@
 streamlit
-opencv-python==4.4.0
+opencv-python==4.4.0.40
 wheel==0.35
 streamlit_drawable_canvas
 numpy==1.19.3
